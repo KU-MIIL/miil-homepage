@@ -1,23 +1,31 @@
-
+- title: "GOAT: A Training Framework for Goal-Oriented Agent with Tools"
+  year: 2026
+  authors: Hyunji Min, Sangwon Jung, Junyoung Sung, Dosung Lee, Leekyeung Han, Paul Hongsuck Seo
+  venue: ACL 2026 (Findings)
+  
 - title: "CRIT: Graph-Based Automatic Data Synthesis to Enhance Cross-Modal Multi-Hop Reasoning"
   year: 2026
   authors: Junyoung Sung, Seungwoo Lyu, Minjun Kim, Sumin An, Arsha Nagrani, Paul Hongsuck Seo
   venue: CVPR 2026
-
+  link: 
+  
 - title: "Robust Image Self-Recovery against Tampering using Watermark Generation with Pixel Shuffling"
   year: 2026
   authors: Minyoung Kim, Paul Hongsuck Seo
   venue: CVPR 2026 (Findings)
+  link: https://eurominyoung186.github.io/ReImage/
 
 - title: "Seg4Diff: Unveiling Open-Vocabulary Segmentation in Text-to-Image Diffusion Transformers"
   year: 2025
   authors: Chaehyun Kim, Heeseong Shin, Heeji Yoon, Eunbeen Hong, Anurag Arnab, Paul Hongsuck Seo, +Sunghwan Hong, +Seungryong Kim (+ corresponding authors)
   venue: NeurIPS 2025
+  link: https://cvlab-kaist.github.io/Seg4Diff/
 
 - title: "ReTAG: Retrieval-Enhanced, Topic-Augmented Graph-Based Global Sensemaking"
   year: 2025
   authors: Boyoung Kim, Dosung Lee, Sumin An, Jinseong Jeong, Paul Hongsuck Seo
   venue: EMNLP 2025 (Findings)
+  link: https://arxiv.org/abs/2509.25814
 
 - title: "DialNav: Multi-turn Dialog Navigation with a Remote Guide"
   year: 2025
