@@ -1,3 +1,9 @@
+- img: acl-plain-logo.png
+  year: 2026
+  month: April
+  category: Publication
+  description: "A paper accepted to ACL 2026 as Findings."
+  
 - img: neurips.svg
   year: 2026
   month: March
