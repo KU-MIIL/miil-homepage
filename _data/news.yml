@@ -1,3 +1,27 @@
+- img: neurips.svg
+  year: 2026
+  month: March
+  category: Professional Service
+  description: "Paul will serve as an Area Chair for NeurIPS 2026."
+
+- img: cvpr2026.svg
+  year: 2026
+  month: February
+  category: Publication
+  description: "Two papers accepted to CVPR 2026 (incl. 1 Findings)."
+
+- img: eccv2026.svg
+  year: 2025
+  month: December
+  category: Professional Service
+  description: "Paul will serve as an Area Chair for ECCV 2026."
+  
+- img: icml.svg
+  year: 2025
+  month: December
+  category: Professional Service
+  description: "Paul will serve as an Area Chair for ICML 2026."
+  
 - img: cvpr2026.svg
   year: 2025
   month: August
@@ -38,7 +62,7 @@
   
 - img: cvpr2025.svg
   year: 2025
-  month: Fabruary
+  month: February
   category: Publication
   description: "A paper accepted to CVPR 2025."
 
