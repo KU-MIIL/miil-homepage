@@ -21,7 +21,13 @@
   month: December
   category: Professional Service
   description: "Paul will serve as an Area Chair for ECCV 2026."
-  
+
+- img: kccv2026.png
+  year: 2025
+  month: November
+  category: Professional Service
+  description: "Paul will serve as an Finance Chair for KCCV 2026."
+
 - img: icml2023.png
   year: 2025
   month: December
