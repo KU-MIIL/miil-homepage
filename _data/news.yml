@@ -1,3 +1,15 @@
+- img: iros2026.webp
+  year: 2026
+  month: June
+  category: Publication
+  description: "A paper accepted to IROS 2026."
+
+- img: eccv2026.svg
+  year: 2026
+  month: June
+  category: Publication
+  description: "A paper accepted to ECCV 2026."
+
 - img: acl-plain-logo.png
   year: 2026
   month: April

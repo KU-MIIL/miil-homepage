@@ -1,3 +1,13 @@
+- title: "All-St3R SLAM: Real-time RGB Dynamic SLAM with Pixel-wise Motion Masking"
+  year: 2026
+  authors: Yewon Kim, Paul Hongsuck Seo, Sang Chul Ahn
+  venue: IROS 2026
+
+- title: "Direct Diffusion Score Preference Optimization via Stepwise Contrastive Policy-Pair Supervision"
+  year: 2026
+  authors: Dohyun Kim, Seungwoo Lyu, Seung Wook Kim, Paul Hongsuck Seo
+  venue: ECCV 2026
+
 - title: "GOAT: A Training Framework for Goal-Oriented Agent with Tools"
   year: 2026
   authors: Hyunji Min, Sangwon Jung, Junyoung Sung, Dosung Lee, Leekyeung Han, Paul Hongsuck Seo
