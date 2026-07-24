@@ -7,11 +7,13 @@
   year: 2026
   authors: Dohyun Kim, Seungwoo Lyu, Seung Wook Kim, Paul Hongsuck Seo
   venue: ECCV 2026
+  link: https://dohyun-as.github.io/DDSPO/
 
 - title: "GOAT: A Training Framework for Goal-Oriented Agent with Tools"
   year: 2026
   authors: Hyunji Min, Sangwon Jung, Junyoung Sung, Dosung Lee, Leekyeung Han, Paul Hongsuck Seo
   venue: ACL 2026 (Findings)
+  link: https://daream2.github.io/GOAT/
   
 - title: "CRIT: Graph-Based Automatic Data Synthesis to Enhance Cross-Modal Multi-Hop Reasoning"
   year: 2026
