@@ -9,7 +9,7 @@
   month: August
   category: Professional Service
   description: "The [EAD Workshop](https://ead-workshop.github.io/) will be held at ECCV 2026."
-  long_description: 'The <a href="https://ead-workshop.github.io/" target="_blank" rel="noopener noreferrer">Embodied Agent and Dialog (EAD) Workshop</a>, co-organized by MIIL, will be held at ECCV 2026. The workshop will bring together researchers to explore how dialog can make embodied agents more capable, collaborative, and safe. We warmly welcome your interest and participation.'
+  long_description: 'The <a href="https://ead-workshop.github.io/" target="_blank" rel="noopener noreferrer">Embodied Agent and Dialog (EAD) Workshop</a>, co-organized by MIIL, will be held at ECCV 2026. The workshop will bring together researchers to explore how dialog can make embodied agents more capable, collaborative, and safe. We welcome your interest and participation.'
 
 - img: emnlp2026.png
   year: 2026
