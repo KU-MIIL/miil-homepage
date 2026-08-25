@@ -1,3 +1,16 @@
+- img: iclr.svg
+  year: 2026
+  month: August
+  category: Professional Service
+  description: "Paul will serve as an Area Chair for ICLR 2027."
+
+- img: eccv2026.svg
+  year: 2026
+  month: August
+  category: Professional Service
+  description: "The [EAD Workshop](https://ead-workshop.github.io/) will be held at ECCV 2026."
+  long_description: 'The <a href="https://ead-workshop.github.io/" target="_blank" rel="noopener noreferrer">Embodied Agent and Dialog (EAD) Workshop</a> will be held at ECCV 2026. Co-organized by MIIL, the workshop brings together researchers from computer vision, natural language processing, robotics, and human-AI interaction to discuss how dialog can enable more capable, collaborative, and safe embodied agents. We warmly invite researchers and practitioners to join us and look forward to your interest and participation.'
+
 - img: emnlp2026.png
   year: 2026
   month: August
